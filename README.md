@@ -75,7 +75,7 @@ I turn Figma designs into responsive websites and manageable WordPress experienc
   <a href="https://www.linkedin.com/in/patibravo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/aspatibravo/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/askpatibravo/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://substack.com/@askpatibravo?utm_source=user-menu" target="_blank" rel="noopener noreferrer">
